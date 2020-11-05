@@ -11,3 +11,5 @@ Prueba de cambio2 en la rama Test
 CAMBIO EN TEXT
 
 CAMBIOS EN AJUSTES DE TEXTO. TODO MAS JUNTO. MAS SITIO
+
+CAMBIO EN LA RAMA TESTED. Solo debería de salir en esta rama
